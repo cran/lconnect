@@ -1,6 +1,6 @@
 Package: lconnect
 Title: Simple Tools to Compute Landscape Connectivity Metrics
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Frederico", "Mestre", email = "mestre.frederico@gmail.com", role = c("aut","cre")),
     person("Bruno", "Silva", email = "bmsasilva@gmail.com", role = "aut"))
@@ -24,9 +24,9 @@ Imports: sf, igraph
 BugReports: https://github.com/FMestre1/lconnect/issues
 RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2019-04-02 07:36:33 UTC; bruno
+Packaged: 2021-02-06 15:53:55 UTC; Frederico
 Author: Frederico Mestre [aut, cre],
   Bruno Silva [aut]
 Maintainer: Frederico Mestre <mestre.frederico@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-04-05 09:30:03 UTC
+Date/Publication: 2021-02-06 16:10:02 UTC
